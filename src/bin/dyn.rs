@@ -1,3 +1,5 @@
+//! Example from Blandy *et al*'s *Programming Rust*
+
 trait Salad {
     fn name(&self) -> &'static str;
 }
